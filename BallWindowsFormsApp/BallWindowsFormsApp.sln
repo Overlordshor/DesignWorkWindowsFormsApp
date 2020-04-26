@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallWindowsFormsApp", "BallWindowsFormsApp\BallWindowsFormsApp.csproj", "{B5BEC83D-85A4-4C85-8A09-F5BC0B478A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallGameClassLibrary", "BallGameClassLibrary\BallGameClassLibrary.csproj", "{2D98E170-5F24-4A0E-841C-07D1025BA3E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffusionFormsApp", "DiffusionFormsApp\DiffusionFormsApp.csproj", "{8AFB4C9F-F676-457C-8C87-DD176E1D5E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryBirdsFormsApp", "AngryBirdsFormsApp\AngryBirdsFormsApp.csproj", "{E59C054C-BD6A-49E9-90F1-4FD756B6EBB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalutFormsApp", "SalutFormsApp\SalutFormsApp.csproj", "{37845E8D-0973-4F0B-99DE-CCDE179CA5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeFormsApp", "SnakeFormsApp\SnakeFormsApp.csproj", "{126BB8FB-738D-4F06-A359-C673229ADB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BEC83D-85A4-4C85-8A09-F5BC0B478A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BEC83D-85A4-4C85-8A09-F5BC0B478A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BEC83D-85A4-4C85-8A09-F5BC0B478A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BEC83D-85A4-4C85-8A09-F5BC0B478A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D98E170-5F24-4A0E-841C-07D1025BA3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D98E170-5F24-4A0E-841C-07D1025BA3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D98E170-5F24-4A0E-841C-07D1025BA3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D98E170-5F24-4A0E-841C-07D1025BA3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFB4C9F-F676-457C-8C87-DD176E1D5E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFB4C9F-F676-457C-8C87-DD176E1D5E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFB4C9F-F676-457C-8C87-DD176E1D5E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFB4C9F-F676-457C-8C87-DD176E1D5E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59C054C-BD6A-49E9-90F1-4FD756B6EBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59C054C-BD6A-49E9-90F1-4FD756B6EBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59C054C-BD6A-49E9-90F1-4FD756B6EBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59C054C-BD6A-49E9-90F1-4FD756B6EBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37845E8D-0973-4F0B-99DE-CCDE179CA5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37845E8D-0973-4F0B-99DE-CCDE179CA5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37845E8D-0973-4F0B-99DE-CCDE179CA5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37845E8D-0973-4F0B-99DE-CCDE179CA5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126BB8FB-738D-4F06-A359-C673229ADB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126BB8FB-738D-4F06-A359-C673229ADB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126BB8FB-738D-4F06-A359-C673229ADB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126BB8FB-738D-4F06-A359-C673229ADB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C82D63-F573-454B-931A-D531743D6FAD}
+	EndGlobalSection
+EndGlobal
